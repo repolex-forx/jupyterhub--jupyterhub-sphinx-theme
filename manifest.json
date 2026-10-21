@@ -1,0 +1,47 @@
+{
+  "manifest_version": "1.0",
+  "org": "jupyterhub",
+  "repo": "jupyterhub-sphinx-theme",
+  "versions": [
+    {
+      "commit": "33139829eb7840b41cfcdcbff603701e7e468391",
+      "parsed_at": "2026-10-21T21:56:05.441382+00:00",
+      "filetree": "filetree/33139829eb7840b41cfcdcbff603701e7e468391.nq.gz",
+      "blobs": [
+        "blob/ba71ef597144142c67acfa030f11fb9dd01d27d0.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/3d9a3e78694477f43329bbfb71a43a303ec7b5e6.nq.gz",
+        "blob/a3fda6e5bc17701d2d6b4d15d433a05d3391f9ad.nq.gz",
+        "blob/9254df9928593bf4c82cae1445bdf24f967331cc.nq.gz",
+        "blob/9e8ae9593de21b292044691dd5946e05a08e0544.nq.gz",
+        "blob/7124d7e0079ad123acfd3726828a4a6939280073.nq.gz",
+        "blob/989941b4665a807909d27849edc491c82e70a054.nq.gz",
+        "blob/cec0dad52e754b4b24fd9f5e412aae7e3e26a230.nq.gz",
+        "blob/d92d8d465aec14aa788352c8d908d80a5b25544d.nq.gz",
+        "blob/a2bd794c96d87f97ffafa2bdb87bf1e24fe1cda4.nq.gz",
+        "blob/3521bdf2881385e76452d8a0f7d0feaff6e38671.nq.gz",
+        "blob/e13f0d49fd5c75546976f4a23bb24b7b85cdba08.nq.gz",
+        "blob/a970704d290ecbfa99ddb725799e90a12f57ea06.nq.gz",
+        "blob/66d02a3c3f9b1b59b1b359d7ff8d847cf85f779e.nq.gz",
+        "blob/6a944f765860506269017f99a5936b6bf729f4ba.nq.gz",
+        "blob/7019936761eb592591c0e65829370a41ce07475f.nq.gz",
+        "blob/83126a03db8ae79ce5ce77fb9f00ded12c630823.nq.gz",
+        "blob/462817b594e00311002805290c7baf78ba894a70.nq.gz",
+        "blob/a3a28fd46f6881a79fc5f972d676c26f49f47a99.nq.gz",
+        "blob/d34dc1e2e24d3a4984714fe9b5cb9377d043e000.nq.gz",
+        "blob/097bb8acace979a8e96bb74371f6528f7a28b085.nq.gz",
+        "blob/94f950227beeb81c039eeac45185a693a98ca056.nq.gz",
+        "blob/3ba2403f336dbe1725ecbfd202121e1b2e79dd9a.nq.gz",
+        "blob/ffdf84e2314ca24a8b508642368dbba3bc61c7cc.nq.gz",
+        "blob/5ae425e94e44b7012f7ee994c1f991985720579f.nq.gz",
+        "blob/a3a7848d811abfae3af5ab3672866ec87f37b93c.nq.gz",
+        "blob/0ba463971975bee3a8ffd002f1c729089de0fd1d.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
