@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jupyterhub/jupyterhub-sphinx-theme/commit/33139829eb7840b41cfcdcbff603701e7e468391",
       "git:hexsha": "33139829eb7840b41cfcdcbff603701e7e468391",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/jupyterhub/jupyterhub-sphinx-theme/commit/5e0277af22192b88c84cf869905235b18effad1f",
