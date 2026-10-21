@@ -1,0 +1,11 @@
+{
+  "org": "jupyterhub",
+  "repo": "jupyterhub-sphinx-theme",
+  "versions": [
+    {
+      "commit": "33139829eb7840b41cfcdcbff603701e7e468391",
+      "tag": "",
+      "parsed_at": "2026-10-21T21:58:36.204855+00:00"
+    }
+  ]
+}
